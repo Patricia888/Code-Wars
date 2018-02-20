@@ -1,4 +1,4 @@
-function isNice(arr){
+function isNice (arr){
   if (arr.length === 0) {
     return false;
   }
