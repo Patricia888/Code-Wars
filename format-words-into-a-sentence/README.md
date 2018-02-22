@@ -5,3 +5,9 @@ Complete the method so that it formats the words into a single comma separated v
 formatWords(['ninja', 'samurai', 'ronin']) // should return "ninja, samurai and ronin"
 formatWords(['ninja', '', 'ronin']) // should return "ninja and ronin"
 formatWords([]) // should return ""
+
+## Resources Used:
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
+https://stackoverflow.com/questions/3216013/get-the-last-item-in-an-array
